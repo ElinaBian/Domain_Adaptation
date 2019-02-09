@@ -30,3 +30,5 @@ def load_mnist_data(num_pixel):
         mnist_train_labels = lb_mnist.fit_transform(mnist_train_labels)
         mnist_test_labels = lb_mnist.fit_transform(mnist_test_labels)
         return mnist_train_images, mnist_train_labels, mnist_test_images, mnist_test_labels
+    else:
+        return mnist_train_images, mnist_train_labels, mnist_test_images, mnist_test_labels
