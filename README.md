@@ -3,6 +3,8 @@
 Maximum Classifier Discrepency for Unsupervised Domain Adaptation
 ===========
 
+Our project report has been uploaded as Project_Report.pdf
+
 Data Download
 -----------
 
